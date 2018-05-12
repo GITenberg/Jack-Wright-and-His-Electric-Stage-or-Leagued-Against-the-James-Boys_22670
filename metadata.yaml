@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36301'
     url: http://www.gutenberg.org/2009/agents/36301
 description: 'From the serial: Boys'' Star Library'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22670#Jack-Wright-and-His-Electric-Stage-or-Leagued-Against-the-James-Boys
 gutenberg_issued: '2007-09-19'
 gutenberg_type: Text
 identifiers:
